@@ -10,4 +10,3 @@ This Laravel application retrieves and displays real-time weather data. It conne
 - Start the Laravel server: `php artisan serve`
 - Access at `http://localhost:8000/weather`
 
-This README provides a basic overview of the project's functionality and setup. For detailed usage and contribution guidelines, please refer to the project's documentation.
