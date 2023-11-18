@@ -9,4 +9,5 @@ This Laravel application retrieves and displays real-time weather data. It conne
 - Configure your `.env` file with your OpenWeatherMap API key
 - Start the Laravel server: `php artisan serve`
 - Access at `http://localhost:8000/weather`
+- Navigate to `/weather` to view the current weather information.
 
